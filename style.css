@@ -3,6 +3,7 @@
 }
 
 body {
-    background-color: blanchedalmond;
+    background-image: url("afrique.jpg");
+    background-size: cover;
 }
 
